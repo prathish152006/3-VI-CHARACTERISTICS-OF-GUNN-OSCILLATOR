@@ -55,7 +55,14 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
 
+
+
+![Screenshot 2025-11-17 185453](https://github.com/user-attachments/assets/e29437b7-529f-4ca5-a553-8a98e7cf8833)
+
+
 **C.Analysis of Results: (Write your own)**
+<img width="1129" height="1507" alt="image" src="https://github.com/user-attachments/assets/308da6f1-3505-444c-9e44-80c09eed9b35" />
+
 
 (Include sample calculations/Display/plot/typical graph)
 
@@ -68,4 +75,4 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 •	Observation should be taken properly.
 
 **Result:**
-
+Hence characteristics of gunn oscillator is successfuly done
